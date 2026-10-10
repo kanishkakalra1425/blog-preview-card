@@ -66,8 +66,6 @@ line-height: 150%;
 /* identical to box height, or 21px */
 margin-top:12px;
 color: #111111;
-
-
 }
 
 
@@ -76,7 +74,7 @@ margin-top:12px;
 font-family: 'Figtree';
 font-style: normal;
 font-weight: 800;
-font-size: 24px;
+font-size: clamp(12px, 4vh, 24px) ;
 line-height: 150%;
 /* identical to box height, or 36px */
 
