@@ -29,6 +29,9 @@
 .card-content {
     margin-top: 24px;
 }
+.card-img img{
+  border-radius:10px;
+}
 .card{
   border-radius:20px;
   padding: 24px;
@@ -40,7 +43,7 @@
 
 }
 a{
-margin-top: 24px;
+border-radius:4px;
 background-color: #F4D04E;
 font-family: 'Figtree';
 font-style: normal;
